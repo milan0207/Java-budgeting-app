@@ -1,0 +1,72 @@
+Coca-Cola$1.5$Drinks$2024-03-12
+Water Bottle$0.99$Drinks$2023-12-22
+Sandwich$3.2$Food$2024-01-05
+Pizza$8.5$Food$2024-02-15
+Movie Ticket$10.0$Entertainment$2024-03-05
+Board Game$20.0$Entertainment$2023-11-20
+T-Shirt$15.0$Clothes$2024-01-22
+Jeans$40.0$Clothes$2024-02-10
+Smartphone$300.0$Electronics$2023-12-05
+Laptop$800.0$Electronics$2024-01-18
+Book$12.0$Other$2024-03-01
+Umbrella$7.5$Other$2023-11-15
+Coffee$2.5$Drinks$2024-01-10
+Orange Juice$3.0$Drinks$2023-12-20
+Apple$1.2$Food$2023-11-05
+Banana$0.8$Food$2024-02-18
+Concert Ticket$50.0$Entertainment$2024-01-30
+Video Game$60.0$Entertainment$2023-12-14
+Winter Coat$120.0$Clothes$2024-01-25
+Sneakers$90.0$Clothes$2024-02-05
+Tablet$250.0$Electronics$2023-12-08
+Headphones$75.0$Electronics$2024-01-20
+Puzzle$15.0$Other$2023-11-10
+Notebook$3.5$Other$2024-03-02
+Green Tea$4.0$Drinks$2023-10-15
+Red Wine$12.0$Drinks$2024-03-07
+Cheeseburger$5.5$Food$2024-01-16
+Salad$7.0$Food$2023-11-22
+Theater Ticket$35.0$Entertainment$2024-01-08
+Museum Pass$25.0$Entertainment$2023-12-25
+Dress$70.0$Clothes$2024-02-14
+Scarf$20.0$Clothes$2024-01-06
+E-reader$130.0$Electronics$2023-12-05
+Camera$350.0$Electronics$2024-01-18
+Flower Pot$10.0$Other$2024-02-20
+Sunglasses$30.0$Other$2023-11-30
+Iced Tea$2.0$Drinks$2024-01-01
+Beer$3.0$Drinks$2023-10-28
+Pizza Slice$2.5$Food$2023-11-15
+Ice Cream$2.0$Food$2024-02-22
+Cinema Ticket$12.0$Entertainment$2024-01-12
+Karaoke Session$20.0$Entertainment$2023-12-31
+Jacket$85.0$Clothes$2024-02-08
+Hat$15.0$Clothes$2024-01-03
+Smartwatch$200.0$Electronics$2023-11-20
+Gaming Console$400.0$Electronics$2024-01-15
+Keychain$5.0$Other$2024-03-10
+Art Supplies$50.0$Other$2023-12-01
+Milk$1.5$Drinks$2024-02-26
+Herbal Tea$4.5$Drinks$2023-11-08
+Sushi Platter$25.0$Food$2024-01-20
+Chicken Wings$8.5$Food$2023-12-18
+Broadway Show$100.0$Entertainment$2024-01-05
+Amusement Park Ticket$45.0$Entertainment$2023-11-25
+Blouse$35.0$Clothes$2024-02-12
+Trousers$50.0$Clothes$2024-01-09
+Bluetooth Speaker$60.0$Electronics$2023-12-07
+Digital Camera$250.0$Electronics$2024-01-19
+Travel Guide$20.0$Other$2024-02-15
+Desk Lamp$18.0$Other$2023-11-12
+Lemonade$2.0$Drinks$2024-03-01
+Sparkling Water$1.8$Drinks$2023-10-20
+Hamburger$4.5$Food$2023-11-10
+French Fries$3.0$Food$2024-02-20
+Movie Rental$5.0$Entertainment$2024-01-10
+Chicken$55.6$Food$2024-02-05
+Chicken$55.6$Food$2024-02-05
+kakas$12$Drinks$12-12-2003
+kakas$12$Drinks$12-12-200
+kakas$12$Drinks$2003-12-12
+Kakas$12$Drinks$2024-01-07
+Kola$5.6$Drinks$2023-10-01
