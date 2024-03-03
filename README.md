@@ -6,9 +6,12 @@ This project is a Java-based application that provides a graphical user interfac
 
 1. **MainPanel**: The main panel of the application, featuring buttons for adding a product, viewing a product, and accessing statistics.
 
-2. **ViewProductPanel**: Displays a table of product data loaded from a text file. It includes a button to view detailed statistics related to the products.
+2. **AddProductPanel**: This panel is designed for adding new products to the application. It features a back button for navigation, text fields for entering the product's name, price, and date, a combo box for selecting the product's category, and a button for adding the product.
 
-3. **ViewStatisticsPanel**: Provides a detailed view of product statistics, allowing users to filter data by year and month. This panel displays a pie chart illustrating spending by category for the selected time period.
+3. **ViewProductPanel**: Displays a table of product data loaded from a text file. It includes a button to view detailed statistics related to the products.
+
+4. **ViewStatisticsPanel**: Provides a detailed view of product statistics, allowing users to filter data by year and month. This panel displays a pie chart illustrating spending by category for the selected time period.
+
 
 ## Data Storage
 
