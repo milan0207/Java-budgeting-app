@@ -111,14 +111,6 @@ public class ViewProductPanel extends JPanel {
         table.setFillsViewportHeight(true);
     }
 
-    public static void main(String[] args) {
-        JFrame frame = new JFrame("View Product Panel");
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(400, 800);
-        frame.setLocationRelativeTo(null);
-        frame.add(new ViewProductPanel());
-        frame.setVisible(true);
-    }
 
     public AbstractButton getBackButton() {
         return backButton;
